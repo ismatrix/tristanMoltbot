@@ -6,12 +6,10 @@
   - Local:        http://localhost:3000
 
  ✓ Starting...
- ✓ Ready in 1380ms
+ ✓ Ready in 1299ms
  ○ Compiling / ...
- ✓ Compiled / in 2s (261 modules)
- GET / 200 in 2124ms
+ ✓ Compiled / in 998ms (268 modules)
+ GET / 200 in 1093ms
  ⚠ Cross origin request detected from 127.0.0.1 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
- GET / 200 in 20ms
- ✓ Compiled in 673ms (268 modules)
 [?25h
