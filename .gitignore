@@ -1,3 +1,4 @@
 .next/
 node_modules/
 app.log
+node_modules/
